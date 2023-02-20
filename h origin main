@@ -1,0 +1,186 @@
+[33mcommit 89ce78c77d1a42979a4f166898f26bd32f6b209f[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: dharavath_ramdas <dharavath_ramdas101@gmail.com>
+Date:   Mon Feb 20 19:02:26 2023 +0530
+
+    message
+
+[33mcommit bf91636dcce60d25eedf5f1c125ec2c9a6ef43e7[m
+Author: avnish <avnish@ineuron.ai>
+Date:   Sun Dec 11 19:51:40 2022 +0530
+
+    added batch prediction
+
+[33mcommit 3361d4fb94fb369b926ada516ef00063535c2cb6[m
+Author: yadav-avnish <115451707+yadav-avnish@users.noreply.github.com>
+Date:   Sun Dec 11 19:02:03 2022 +0530
+
+    Update docker-compose.yaml
+
+[33mcommit 36c53c51579a2d590fdec8de0cfdd0f064aa19a1[m
+Author: yadav-avnish <115451707+yadav-avnish@users.noreply.github.com>
+Date:   Sun Dec 11 19:01:34 2022 +0530
+
+    Update main.yaml
+
+[33mcommit 38434e2e361c1e3a3820e205e099467ea871d67c[m
+Author: yadav-avnish <115451707+yadav-avnish@users.noreply.github.com>
+Date:   Sun Dec 11 18:49:05 2022 +0530
+
+    Update requirements.txt
+
+[33mcommit f74840d1c948951760d0dd426fb0a1c7a5e56a4e[m
+Author: yadav-avnish <115451707+yadav-avnish@users.noreply.github.com>
+Date:   Sun Dec 11 18:39:53 2022 +0530
+
+    Update README.md
+
+[33mcommit 9261c098f4a518451584f4c42a9785dcbf6e9938[m
+Author: yadav-avnish <115451707+yadav-avnish@users.noreply.github.com>
+Date:   Sun Dec 11 18:19:29 2022 +0530
+
+    Update README.md
+
+[33mcommit ad2713dc8c62a1450d355cb84df4497287581c4e[m
+Author: yadav-avnish <115451707+yadav-avnish@users.noreply.github.com>
+Date:   Sun Dec 11 18:19:13 2022 +0530
+
+    Update README.md
+
+[33mcommit 6a11ab357bbd43a5c32ddda3d2b9c45e06b525fe[m
+Author: avnish <avnish@ineuron.ai>
+Date:   Sun Dec 11 17:38:23 2022 +0530
+
+    project deployement configured
+
+[33mcommit e16fc3bb2a34923ca58de2daadc6e9b0a6ccc6e5[m
+Author: avnish <avnish@ineuron.ai>
+Date:   Sat Dec 10 18:26:44 2022 +0530
+
+    updated
+
+[33mcommit 4f15ade8e0c74107ddc916a730b0fbe5645e024e[m
+Author: avnish <avnish@ineuron.ai>
+Date:   Sat Dec 10 18:11:36 2022 +0530
+
+    project completed
+
+[33mcommit 82f64a0ec9c2ded4efc8117094721985fb002ff8[m
+Author: yadav-avnish <avnish@ineuron.ai>
+Date:   Sun Dec 4 18:23:35 2022 +0530
+
+    updated model eval and model resolved
+
+[33mcommit 1ee3e1f0b69ac7ced9bade9c5482a00b01e8875b[m
+Author: yadav-avnish <avnish@ineuron.ai>
+Date:   Sun Dec 4 17:22:17 2022 +0530
+
+    completed model trainer
+
+[33mcommit 1fd222584edafb7734185a48c42354a68e38203a[m
+Author: yadav-avnish <avnish@ineuron.ai>
+Date:   Sun Dec 4 16:25:03 2022 +0530
+
+    completed data transformation stage
+
+[33mcommit 58d4da667b0cbd1430b5b7fb6f2b15d2e9bd7b82[m
+Author: yadav-avnish <avnish@ineuron.ai>
+Date:   Sat Dec 3 18:14:51 2022 +0530
+
+    completed data validation
+
+[33mcommit 5dec9f8c258a34640063846d847ad2698df20363[m
+Author: yadav-avnish <avnish@ineuron.ai>
+Date:   Sun Nov 27 18:11:21 2022 +0530
+
+    updated
+
+[33mcommit 3ed0c23237711fcb380d479a6b734af781624404[m
+Author: yadav-avnish <avnish@ineuron.ai>
+Date:   Sun Nov 27 18:03:16 2022 +0530
+
+    data ingestion completed
+
+[33mcommit ea290fc7205021145f78859f483b8aab4781afff[m
+Author: yadav-avnish <avnish@ineuron.ai>
+Date:   Sun Nov 27 16:59:32 2022 +0530
+
+    updated
+
+[33mcommit c560a47c56bf2d2142423bde5a994d7306796a17[m
+Author: yadav-avnish <avnish@ineuron.ai>
+Date:   Sun Nov 27 16:47:17 2022 +0530
+
+    created logging module and basic
+
+[33mcommit 009b52b327be000772c22bb5e6d63610501da225[m
+Author: yadav-avnish <avnish@ineuron.ai>
+Date:   Sun Nov 27 16:38:59 2022 +0530
+
+    updated
+
+[33mcommit ab4770c64f078b598c6d019c0ffeed8dcb464b6e[m
+Author: yadav-avnish <avnish@ineuron.ai>
+Date:   Sun Nov 27 15:38:05 2022 +0530
+
+    updated
+
+[33mcommit b46f0c8e1386192ff975757d767f9d44a034b963[m
+Author: yadav-avnish <avnish@ineuron.ai>
+Date:   Sun Nov 27 15:26:50 2022 +0530
+
+    updated the requirements.txt
+
+[33mcommit 88d3c8f3ba83e2709cfdb48233a2c28704308c38[m
+Author: yadav-avnish <avnish@ineuron.ai>
+Date:   Sat Nov 26 17:44:49 2022 +0530
+
+    updated some common git command
+
+[33mcommit e7620b6bc38ec62043d4173fd040a453deb04472[m
+Author: yadav-avnish <avnish@ineuron.ai>
+Date:   Sat Nov 26 17:36:16 2022 +0530
+
+    added notebook
+
+[33mcommit c874e561bf58625e761b74bb71e0bf949cda6fe9[m
+Merge: f2d2379 295d6e6
+Author: yadav-avnish <avnish@ineuron.ai>
+Date:   Sat Nov 26 17:33:30 2022 +0530
+
+    fixed the merge conflict
+
+[33mcommit f2d23798cab0dda4aaa3592c66a253057261189b[m
+Author: yadav-avnish <avnish@ineuron.ai>
+Date:   Sat Nov 26 17:29:38 2022 +0530
+
+    removed one blank space from main.py file
+
+[33mcommit d84b5d9c903e669e3da1f7e35bea46cb33d8bb0c[m
+Author: yadav-avnish <avnish@ineuron.ai>
+Date:   Sat Nov 26 17:28:16 2022 +0530
+
+    READ.md file updated in neuron lab
+
+[33mcommit 295d6e69c5d91cd12d2bf68a5a4d8fef2ed09446[m
+Author: yadav-avnish <115451707+yadav-avnish@users.noreply.github.com>
+Date:   Sat Nov 26 17:25:38 2022 +0530
+
+    we are testing some changes
+
+[33mcommit 8afa4aecd3a1877efb3f9efc37a77e1930b06cc1[m
+Author: yadav-avnish <avnish@ineuron.ai>
+Date:   Sat Nov 26 17:21:23 2022 +0530
+
+    Added a new file .gitignore
+
+[33mcommit 9379824058c3932617134e90ed223e10bb63d43e[m
+Author: yadav-avnish <avnish@ineuron.ai>
+Date:   Sat Nov 26 17:15:43 2022 +0530
+
+    This is our first version code
+
+[33mcommit 6afd27592df27173e22acdb031203b1ce67f6a05[m
+Author: Vishweswar53 <vishweswar53@gmail.com>
+Date:   Sat Oct 29 21:52:14 2022 +0530
+
+    Initial commit
