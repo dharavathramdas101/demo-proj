@@ -4,7 +4,7 @@ import json
 
 from sensor.config import mongo_client
 
-DATA_FILE_PATH="/config/workspace/aps_failure_training_set1.csv"
+DATA_FILE_PATH="/config/workspace/.git/aps-fault-detection/aps_failure_training_set1.csv"
 DATABASE_NAME="aps"
 COLLECTION_NAME="sensor"
 
