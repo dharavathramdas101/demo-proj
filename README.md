@@ -1,6 +1,6 @@
-# neurolab-mongo-python
+# APS Fault detection
 
-![image](https://user-images.githubusercontent.com/57321948/196933065-4b16c235-f3b9-4391-9cfe-4affcec87c35.png)
+![image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFvRoFrreVK4f0nA9LX3cRDIxCfGozsL9Oyme-MEqYKrF1tuDO2nO95eVwc6JAN0j-N34&usqp=CAU)
 
 Sensor-Fault-Detection
 Problem Statement
