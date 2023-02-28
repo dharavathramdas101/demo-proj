@@ -1,6 +1,6 @@
 # APS Fault detection
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFvRoFrreVK4f0nA9LX3cRDIxCfGozsL9Oyme-MEqYKrF1tuDO2nO95eVwc6JAN0j-N34&usqp=CAU" width="100" height="100">
+<img src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*cjW3HBHh14hmdYTz0cSWVg.jpeg" width="100" height="100">
 ## Problem Statement
 The Air Pressure System (APS) is a critical component of a heavy-duty vehicle that uses compressed air to force a piston to provide pressure to the brake pads, slowing the vehicle down. The benefits of using an APS instead of a hydraulic system are the easy availability and long-term sustainability of natural air.
 
