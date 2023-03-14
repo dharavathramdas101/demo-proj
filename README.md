@@ -1,4 +1,4 @@
-# APS Fault detection
+# APS Sensor Fault detection
 
 ![image](https://miro.medium.com/v2/resize:fit:828/format:webp/1*cjW3HBHh14hmdYTz0cSWVg.jpeg)
 
